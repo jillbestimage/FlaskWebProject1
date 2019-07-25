@@ -1,0 +1,105 @@
+([('app.exe',
+   'Z:\\Documents\\code\\Flask_code\\testflaskclass\\FlaskWebProject1\\build\\app\\app.exe',
+   'EXECUTABLE'),
+  ('app.exe.manifest',
+   'Z:\\Documents\\code\\Flask_code\\testflaskclass\\FlaskWebProject1\\build\\app\\app.exe.manifest',
+   'BINARY'),
+  ('_decimal',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('markupsafe._speedups',
+   'z:\\documents\\code\\flask_code\\testflaskclass\\flaskwebproject1\\env\\lib\\site-packages\\markupsafe\\_speedups.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy.cresultproxy',
+   'z:\\documents\\code\\flask_code\\testflaskclass\\flaskwebproject1\\env\\lib\\site-packages\\sqlalchemy\\cresultproxy.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy.cutils',
+   'z:\\documents\\code\\flask_code\\testflaskclass\\flaskwebproject1\\env\\lib\\site-packages\\sqlalchemy\\cutils.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy.cprocessors',
+   'z:\\documents\\code\\flask_code\\testflaskclass\\flaskwebproject1\\env\\lib\\site-packages\\sqlalchemy\\cprocessors.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('python37.dll',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\python37.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\vcruntime140.dll',
+   'BINARY'),
+  ('libssl-1_1-x64.dll',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\libssl-1_1-x64.dll',
+   'BINARY'),
+  ('libcrypto-1_1-x64.dll',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\libcrypto-1_1-x64.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'Z:\\Documents\\code\\Flask_code\\testflaskclass\\FlaskWebProject1\\build\\app\\base_library.zip',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\Include\\pyconfig.h',
+   'DATA')],)
